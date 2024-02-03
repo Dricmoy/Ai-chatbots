@@ -59,5 +59,10 @@
   "window.autoDetectColorScheme": false,
   "explorer.expandSingleFolderWorkspaces": true,
   "explorer.fileNesting.enabled": false,
-  "explorer.fileNesting.expand": true
+  "explorer.fileNesting.expand": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#133513",
+    "titleBar.activeBackground": "#1B4A1B",
+    "titleBar.activeForeground": "#F5FBF5"
+  }
 }
